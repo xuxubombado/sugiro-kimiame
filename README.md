@@ -1,1 +1,1 @@
-# sugiro-kimiame
+# técnicas computacionais
